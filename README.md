@@ -14,7 +14,6 @@
 [![Status](https://img.shields.io/badge/status-community%20tool-orange)]()
 [![API](https://img.shields.io/badge/API-ECLYPSE%20REST-green)]()
 
----
 
 ## ⚠️ Important Notice
 
@@ -32,7 +31,7 @@ This application is:
 
 **By using this tool, you acknowledge and accept these terms.**
 
----
+
 
 ## 🎯 What Is This Tool?
 
@@ -51,7 +50,7 @@ System integrators, service engineers, and support personnel responsible for ala
 **Developed by:**  
 Distech Controls Advanced Support Team (community project)
 
----
+
 
 ## ✨ Key Features
 
@@ -62,7 +61,7 @@ Distech Controls Advanced Support Team (community project)
 - Automatic merge and refresh per device
 - Supports large datasets (thousands of alarms)
 
----
+
 
 ### 🔄 **Live Polling & Automation**
 
@@ -72,7 +71,7 @@ Distech Controls Advanced Support Team (community project)
 - Manual fetch on demand
 - Optimized parallel polling via RunspacePool
 
----
+
 
 ### 🔍 **Advanced Filtering & Search**
 
@@ -83,7 +82,7 @@ Distech Controls Advanced Support Team (community project)
 - Optional time-range filtering (last _N_ days)
 - Show/hide inactive or hidden alarms
 
----
+
 
 ### 📄 **Paging & Performance Controls**
 
@@ -92,7 +91,7 @@ Distech Controls Advanced Support Team (community project)
 - Designed for high-volume alarm systems
 - Efficient merge logic to prevent UI freezing
 
----
+
 
 ### ✅ **Alarm Acknowledgment**
 
@@ -104,7 +103,7 @@ Distech Controls Advanced Support Team (community project)
 
 ⚠️ *Acknowledgment affects live alarm state—use responsibly.*
 
----
+
 
 ### 🧾 **Detailed Alarm Inspection**
 
@@ -117,7 +116,7 @@ Distech Controls Advanced Support Team (community project)
   - Acknowledgment user/time
   - Raw JSON payload
 
----
+
 
 ### 📤 **Import & Export Tools**
 
@@ -132,7 +131,7 @@ Distech Controls Advanced Support Team (community project)
   - Reporting
   - Offline review
 
----
+
 
 ### 🛠️ **Credential & Settings Management**
 
@@ -145,7 +144,7 @@ Distech Controls Advanced Support Team (community project)
   - Window layout
 - Reset-to-defaults tool
 
----
+
 
 ### 🖥️ **Operational UI & Diagnostics**
 
@@ -158,7 +157,7 @@ Distech Controls Advanced Support Team (community project)
 - In-memory and console logging with levels:
   - INFO, OK, WARN, ERROR, DEBUG
 
----
+
 
 ## 📥 Installation & Requirements
 
@@ -173,7 +172,7 @@ Distech Controls Advanced Support Team (community project)
 
 **No external dependencies.**
 
----
+
 
 ## 🎮 Typical Workflow
 
@@ -185,7 +184,7 @@ Distech Controls Advanced Support Team (community project)
 6. Acknowledge alarms as required
 7. Export alarms or logs for reporting
 
----
+
 
 ## 🧠 Intended Users
 
@@ -197,7 +196,7 @@ This tool is designed for professionals who understand:
 
 **Not recommended for untrained or general-use operators.**
 
----
+
 
 ## 🐛 Stability & Risk Considerations
 
@@ -208,7 +207,7 @@ This tool is designed for professionals who understand:
 
 Always validate behavior in a test or maintenance environment first.
 
----
+
 
 ## 📜 Legal & Project Status
 
@@ -219,7 +218,7 @@ Always validate behavior in a test or maintenance environment first.
 See:
 - 📄 **DISCLAIMER.txt** – legal, warranty, and liability terms
 
----
+
 
 ## 🤝 Support & Feedback
 
@@ -233,7 +232,7 @@ There are:
 - ❌ No guaranteed response times
 - ❌ No obligation for ongoing maintenance
 
----
+
 
 ## 📊 Project Information
 
@@ -243,11 +242,10 @@ There are:
 - **Status:** Community Tool
 - **Maintained by:** Distech Controls Advanced Support Team
 
----
+
 
 **Built with ⚡ by the Distech Controls Advanced Support Team**
 
 *Please read DISCLAIMER.txt before use.*
 
----
 
